@@ -1,0 +1,9 @@
+C:\Users\Santu\Documents\Visual Studio 2017\Projects\crossover\Interview_test\03-07-2019\cross-exchange\CrossExchange\UnitTests\minicover\bin\Debug\netcoreapp2.0\minicover.deps.json
+C:\Users\Santu\Documents\Visual Studio 2017\Projects\crossover\Interview_test\03-07-2019\cross-exchange\CrossExchange\UnitTests\minicover\bin\Debug\netcoreapp2.0\minicover.dll
+C:\Users\Santu\Documents\Visual Studio 2017\Projects\crossover\Interview_test\03-07-2019\cross-exchange\CrossExchange\UnitTests\minicover\bin\Debug\netcoreapp2.0\minicover.pdb
+C:\Users\Santu\Documents\Visual Studio 2017\Projects\crossover\Interview_test\03-07-2019\cross-exchange\CrossExchange\UnitTests\minicover\obj\Debug\netcoreapp2.0\minicover.csprojAssemblyReference.cache
+C:\Users\Santu\Documents\Visual Studio 2017\Projects\crossover\Interview_test\03-07-2019\cross-exchange\CrossExchange\UnitTests\minicover\obj\Debug\netcoreapp2.0\minicover.csproj.CoreCompileInputs.cache
+C:\Users\Santu\Documents\Visual Studio 2017\Projects\crossover\Interview_test\03-07-2019\cross-exchange\CrossExchange\UnitTests\minicover\obj\Debug\netcoreapp2.0\minicover.AssemblyInfoInputs.cache
+C:\Users\Santu\Documents\Visual Studio 2017\Projects\crossover\Interview_test\03-07-2019\cross-exchange\CrossExchange\UnitTests\minicover\obj\Debug\netcoreapp2.0\minicover.AssemblyInfo.cs
+C:\Users\Santu\Documents\Visual Studio 2017\Projects\crossover\Interview_test\03-07-2019\cross-exchange\CrossExchange\UnitTests\minicover\obj\Debug\netcoreapp2.0\minicover.dll
+C:\Users\Santu\Documents\Visual Studio 2017\Projects\crossover\Interview_test\03-07-2019\cross-exchange\CrossExchange\UnitTests\minicover\obj\Debug\netcoreapp2.0\minicover.pdb
